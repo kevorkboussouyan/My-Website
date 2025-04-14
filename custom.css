@@ -1,7 +1,10 @@
 .my-bg-photo {
-  background: url('images/banner-bg.jpg') no-repeat;
+  background: url('https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGJsdXUlMjB3aGl0ZXxlbnwwfHx8fDE2ODQ5NTY1NzA&ixlib=rb-4.0.3&q=80&w=1080') no-repeat;
   background-size: cover;
-  background-position: center center;
+  background-position: center;
+  background-size: cover;  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   position: relative;
 }
 
